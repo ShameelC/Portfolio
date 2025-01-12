@@ -35,16 +35,16 @@ An AI-powered system to classify and detect malicious network activities using m
 A toolkit for ethical hacking, enabling efficient network mapping, vulnerability scanning, and footprinting.
 - **Tech Used**: Python, Nmap, Metasploit, Kali Linux
 
-### [Cryptography Application]([https://github.com/ShameelC/cryptography-app](https://github.com/ShameelC/EncryptionTool-DES-and-AES-))
+### [Cryptography Application](https://github.com/ShameelC/EncryptionTool-DES-and-AES)
 An encryption-decryption application showcasing advanced cryptographic techniques for secure communication.
 - **Tech Used**: Python, Cryptography library
 
 ---
 
 ## 🌐 Certifications
-- [Certified Penetration Tester]([https://www.redteamacademy.com](https://drive.google.com/drive/u/0/folders/1camKCLKW6XOlbhvd-fTkvHosUJApTMAe)) (*Red Team Hacker Academy*, Apr – Jul 2023)
-- [Ethical Hacking]([https://nptel.ac.in/](https://drive.google.com/drive/u/0/folders/1camKCLKW6XOlbhvd-fTkvHosUJApTMAe)) (*NPTEL, IIT Kharagpur*, Jul – Oct 2024)
-- [Cloud Computing]([https://nptel.ac.in/](https://drive.google.com/drive/u/0/folders/1camKCLKW6XOlbhvd-fTkvHosUJApTMAe)) (*NPTEL, IIT Kharagpur*, Jul – Oct 2024)
+- [Certified Penetration Tester](https://drive.google.com/drive/u/0/folders/1camKCLKW6XOlbhvd-fTkvHosUJApTMAe) (*Red Team Hacker Academy*, Apr – Jul 2023)
+- [Ethical Hacking](https://drive.google.com/drive/u/0/folders/1camKCLKW6XOlbhvd-fTkvHosUJApTMAe) (*NPTEL, IIT Kharagpur*, Jul – Oct 2024)
+- [Cloud Computing](https://drive.google.com/drive/u/0/folders/1camKCLKW6XOlbhvd-fTkvHosUJApTMAe) (*NPTEL, IIT Kharagpur*, Jul – Oct 2024)
 
 ---
 
