@@ -1,4 +1,4 @@
-# 🚀 Shameel C's Cybersecurity Portfolio
+# 🚀 Shameel C
 
 Welcome to my portfolio repository! I am a **Cybersecurity Analyst** with a passion for securing digital environments and mitigating risks. This repository showcases my projects, skills, certifications, and journey in the field of cybersecurity.
 
